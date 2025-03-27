@@ -1,4 +1,4 @@
-# 🐟 Individual Trajectory Plotter
+# 🐟 Individual Animal Trajectory Plotter
 
 This Shiny application visualizes and analyzes the swimming behavior of fish individuals tracked over time. It provides detailed tools to plot movement trajectories, speed patterns, heat maps, and angular behavior relative to points of interest (like a light source or basin center).
 
